@@ -2733,7 +2733,7 @@ body.ie {
     top: 0;
     left: 100%;
     width: 100%;
-    height: 100%;
+    height: 100vh;
     background-color: #fff;
     -webkit-transition: left 0.3s;
     -o-transition: left 0.3s;
